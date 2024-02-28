@@ -1,6 +1,6 @@
 /*
 1. yes
-2. lenght
+2. length function
 3. 1 and 6
 4. myArr.splice(1, 0, "4")
 console.log(myArr);
